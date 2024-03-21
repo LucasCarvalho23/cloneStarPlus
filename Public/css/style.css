@@ -11,6 +11,11 @@ body {
     margin: 10px 40px 0 0;
 }
 
+.button-entrar-class:hover {
+    background-color: #35313f;
+    color: white;
+}
+
 .container-img-starPlus {
     padding: 150px 0 20px 0;
 }
@@ -65,4 +70,54 @@ body {
 
 .comoFunciona-info-class > p > a {
     color: white;
+}
+
+.container-vaiVerPrimeiro {
+    padding: 200px 0 250px 0;
+    color: white;
+}
+
+.container-vaiVerPrimeiro > h3 {
+    font-size: 2.3em;
+    padding-bottom: 20px;
+}
+
+.container-vaiVerPrimeiro > p {
+    font-size: .9em;
+}
+
+.container-iconServices {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.container-iconServices > h3 {
+    font-size: 2.3em;
+    padding-bottom: 20px;
+}
+
+.container-catalogo-third {
+    padding: 200px 0 0 0;
+}
+
+.container-catalogo-third > p, .container-catalogo-third > h3 {
+    text-align: center;
+}
+
+.container-catalogo-third > h3 {
+    font-size: 2em;
+    color: white;
+}
+
+.container-catalogo-third > p {
+    padding-top: 20px;
+    font-size: .8em;
+    color: #c3c4c4;
+}
+
+.container-catalogo-third > div {
+    text-align: center;
 }

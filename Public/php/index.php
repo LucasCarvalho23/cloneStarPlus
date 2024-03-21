@@ -68,6 +68,46 @@
         </div>
     </div>
 
+    <div class="container">
+        <div class="row">
+            
+            <div class="col-11 container-vaiVerPrimeiro">
+
+                <h3>O que você vai ver primeiro?</h3>
+                <p>
+                    Estreias de filmes, clássicos e sagas, suas séries favoritas e lançamentos exclusivos, comédias animadas, produções originais e esportes ao vivo com a ESPN.
+                </p>
+
+                <img src="../../Private/image/catalogo-sec.png">
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row container-fluid">
+
+            <div class="col-6 container-iconServices">
+                <h3>Mais do que você gosta</h3>
+                <p>Os melhores torneios do mundo ao vivo, séries originais, programas e jogos exclusivos.</p>
+            </div>
+
+            <div class="col-5 d-flex justify-content-center">
+                <img src="../../Private/image/icon-services.png"> 
+            </div>
+
+        </div>
+    </div>
+
+    <div class="container-catalogo-third">
+        <h3>Histórias que você só encontra no Disney+</h3>
+        <p>Descubra as melhores histórias da Disney, Pixar, Marvel, Star Wars e National Geographic.</p>
+        <div>
+            <img src="../../Private/image/catalogo-thr.png">
+        </div>
+    </div>
+
 
 </body>
 </html>
