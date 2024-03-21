@@ -29,6 +29,42 @@
                 </p>
             </div>
 
+            <div class="col-8">
+                <img class="containter-img-catalogo" src="../../Private/image/catalogo-main.png">
+            </div>
+
+        </div>
+    </div>
+
+
+    <div class="container container-comoFunciona">
+        <div class="row">
+            <h2 class="h2-comoFunciona-class">Como funciona o Combo+:</h2>
+
+            <div class="col-4">
+                <img src="../../Private/image/logo01.png">
+                <div class="comoFunciona-info-class">
+                    <h3>Entretenimento sem limites</h3>
+                    <p>Aproveite todos os esportes e explore milhars de séries e filmes com impressionante qualidade de áudio e vídeo.</p>
+                </div>
+            </div>
+
+            <div class="col-4">
+                <img src="../../Private/image/logo02.png">
+                <div class="comoFunciona-info-class">
+                    <h3>Baixe o Disney+ e o Star+</h3>
+                    <p>Use seus dispositivos favoritos ou acesse <a href="#">disneyplus.com</a> e <a href="#">starplus.com</a> para assistir quando e onde quiser.</p>
+                </div>
+            </div>
+
+            <div class="col-4">
+                <img src="../../Private/image/logo03.png">
+                <div class="comoFunciona-info-class">
+                    <h3>Já é assinante? Não tem problema!</h3>
+                    <p>Se você assina o plano mensal do Disney+ ou do Star+, o valor que você paga mensalmente será descontado do preço do Combo+.</p>
+                </div>
+            </div>
+
         </div>
     </div>
 
