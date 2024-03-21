@@ -1,0 +1,38 @@
+
+body {
+    background-color: #040814;
+}
+
+.button-entrar-class {
+    position: absolute;
+    background-color:#4e4a59;
+    color: white;
+    right: 0;
+    margin: 10px 40px 0 0;
+}
+
+.container-img-starPlus {
+    padding: 150px 0 20px 0;
+}
+
+.containter-button-saveAndGet {
+    padding-bottom: 20px;
+}
+
+.button-saveAndGet {
+    background-color: #6421ff;
+    color: white;
+}
+
+.button-saveAndGet:hover {
+    background-color: #7828ff;
+    color: white;
+}
+
+.p-assinar-class {
+    text-align: center;
+}
+
+.p-assinar-class > a {
+    color: white;
+}
