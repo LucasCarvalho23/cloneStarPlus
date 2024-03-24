@@ -160,7 +160,34 @@ body {
 }
 
 .accordion-button {
-    font-size: .6em;
+    font-size: .7em;
+}
+
+footer {
+    color:#adaeb1; 
+    margin-top: 100px;
+    text-align: center;
+}
+
+footer a {
+    color: #adaeb1;
+    text-decoration: none;
+}
+
+footer a:hover, footer span:hover {
+    color: white;
+}
+
+footer span:hover {
+    text-decoration: underline;
+}
+
+.p-footer-class {
+    font-size: .7em;
+}
+
+.p-footer2-class {
+    font-size: .8em;
 }
 
 
