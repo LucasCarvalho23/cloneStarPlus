@@ -197,4 +197,76 @@ footer span:hover {
 
 
 
+/****************************************************************************/
 
+/* LOGIN SCREEN */
+
+body {
+    background-color: #040814;
+}
+
+.container-login {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.container-login h3 {
+    color: white;
+    margin-top: 60px;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+.container-login input {
+    margin-top: 30px;
+    background-color: #25222a;
+    height: 50px;
+    border: none;
+    font-size: .9em;
+}
+
+.container-login input:hover, .container-login input:active, .container-login input:focus {
+    background-color: #25222a;
+    border: 1px solid #656368;
+    color: white;
+    font-size: .9em;
+}
+
+.button-continuar {
+    background-image: linear-gradient(to right, #e1054a, #ce3e03);
+    margin-top: 20px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    padding-top: 12px;
+}
+
+.button-continuar:hover {
+    color: white;
+}
+
+.container-login p {
+    margin-top: 50px;
+    color: white;
+    text-align: left;
+    font-size: .9em;
+}
+
+.container-login p > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.container-login p > a:hover {
+    color: #0ba4a4;
+    text-decoration: underline;
+}
+
+.container-login-footer {
+    text-align: center;    
+}
+
+.container-login-footer a {
+    font-weight: bold;
+}

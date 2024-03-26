@@ -11,7 +11,7 @@
 </head>
 <body>
 
-    <a href="#" class="btn btn-lg button-entrar-class">ENTRAR</a>
+    <a href="./login.php" class="btn btn-lg button-entrar-class">ENTRAR</a>
 
     <div class="container">
         <div class="row">
