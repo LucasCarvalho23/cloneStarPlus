@@ -19,13 +19,13 @@
             <div class="col-3">
                 <img class="container-img-starPlus" src="../../Private/image/disneyComboStar.png">
                 <div class="d-grid gap-2 containter-button-saveAndGet">
-                    <a href="#" class="btn btn-lg button-saveAndGet">SAVE AND GET THEM BOTH</a>
+                    <a href="https://www.starplus.com/sign-up?type=bundle" target="__blank" class="btn btn-lg button-saveAndGet">SAVE AND GET THEM BOTH</a>
                 </div>
                 <p class="p-assinar-class">
-                    <a href="#">Assinar somente o Disney+</a>
+                    <a href="https://www.disneyplus.com/identity/sign-up?skuInterval=monthly&toggle=shown&partnerId=starplus&adobe_mc=MCMID%3D16472369093151254281714902090320911315%7CMCORGID%3D25823F955A99D5040A495C1D%2540AdobeOrg%7CTS%3D1711415861#" target="__blank">Assinar somente o Disney+</a>
                 </p>
                 <p class="p-assinar-class">
-                    <a href="">Assinar somente o Star+</a>
+                    <a href="https://www.starplus.com/sign-up?skuInterval=monthly&toggle=shown" target="__blank">Assinar somente o Star+</a>
                 </p>
             </div>
 
@@ -221,7 +221,7 @@
                         </h2>
                         <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionpergFrequentes">
                             <div class="accordion-body">
-                                <p>O aplicativo do Disney+ está disponível em dispositivos móveis, navegadores, videogames, decodificadores e smart TVs. Confira <a href="#">a lista completa de dispositivos compatíveis na Central de Ajuda.</a></p>
+                                <p>O aplicativo do Disney+ está disponível em dispositivos móveis, navegadores, videogames, decodificadores e smart TVs. Confira <a href="https://help.starplus.com/article/starplus-supported-devices">a lista completa de dispositivos compatíveis na Central de Ajuda.</a></p>
                             </div>
                         </div>
                     </div>
@@ -245,21 +245,28 @@
                     <div class="container container-fluid mb-3">
                         <div class="row justify-content-center">
                             <div class="col-2 p-footer-class">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-globe" viewBox="0 0 16 16">
-                                <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m7.5-6.923c-.67.204-1.335.82-1.887 1.855A8 8 0 0 0 5.145 4H7.5zM4.09 4a9.3 9.3 0 0 1 .64-1.539 7 7 0 0 1 .597-.933A7.03 7.03 0 0 0 2.255 4zm-.582 3.5c.03-.877.138-1.718.312-2.5H1.674a7 7 0 0 0-.656 2.5zM4.847 5a12.5 12.5 0 0 0-.338 2.5H7.5V5zM8.5 5v2.5h2.99a12.5 12.5 0 0 0-.337-2.5zM4.51 8.5a12.5 12.5 0 0 0 .337 2.5H7.5V8.5zm3.99 0V11h2.653c.187-.765.306-1.608.338-2.5zM5.145 12q.208.58.468 1.068c.552 1.035 1.218 1.65 1.887 1.855V12zm.182 2.472a7 7 0 0 1-.597-.933A9.3 9.3 0 0 1 4.09 12H2.255a7 7 0 0 0 3.072 2.472M3.82 11a13.7 13.7 0 0 1-.312-2.5h-2.49c.062.89.291 1.733.656 2.5zm6.853 3.472A7 7 0 0 0 13.745 12H11.91a9.3 9.3 0 0 1-.64 1.539 7 7 0 0 1-.597.933M8.5 12v2.923c.67-.204 1.335-.82 1.887-1.855q.26-.487.468-1.068zm3.68-1h2.146c.365-.767.594-1.61.656-2.5h-2.49a13.7 13.7 0 0 1-.312 2.5m2.802-3.5a7 7 0 0 0-.656-2.5H12.18c.174.782.282 1.623.312 2.5zM11.27 2.461c.247.464.462.98.64 1.539h1.835a7 7 0 0 0-3.072-2.472c.218.284.418.598.597.933M10.855 4a8 8 0 0 0-.468-1.068C9.835 1.897 9.17 1.282 8.5 1.077V4z"/>
-                                </svg>
-                                <span class="ms-1">Português</span>
+                                <div class="dropdown">
+                                    <a class="dropdown-toggle text-decoration-none" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-globe" viewBox="0 0 16 16">
+                                            <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m7.5-6.923c-.67.204-1.335.82-1.887 1.855A8 8 0 0 0 5.145 4H7.5zM4.09 4a9.3 9.3 0 0 1 .64-1.539 7 7 0 0 1 .597-.933A7.03 7.03 0 0 0 2.255 4zm-.582 3.5c.03-.877.138-1.718.312-2.5H1.674a7 7 0 0 0-.656 2.5zM4.847 5a12.5 12.5 0 0 0-.338 2.5H7.5V5zM8.5 5v2.5h2.99a12.5 12.5 0 0 0-.337-2.5zM4.51 8.5a12.5 12.5 0 0 0 .337 2.5H7.5V8.5zm3.99 0V11h2.653c.187-.765.306-1.608.338-2.5zM5.145 12q.208.58.468 1.068c.552 1.035 1.218 1.65 1.887 1.855V12zm.182 2.472a7 7 0 0 1-.597-.933A9.3 9.3 0 0 1 4.09 12H2.255a7 7 0 0 0 3.072 2.472M3.82 11a13.7 13.7 0 0 1-.312-2.5h-2.49c.062.89.291 1.733.656 2.5zm6.853 3.472A7 7 0 0 0 13.745 12H11.91a9.3 9.3 0 0 1-.64 1.539 7 7 0 0 1-.597.933M8.5 12v2.923c.67-.204 1.335-.82 1.887-1.855q.26-.487.468-1.068zm3.68-1h2.146c.365-.767.594-1.61.656-2.5h-2.49a13.7 13.7 0 0 1-.312 2.5m2.802-3.5a7 7 0 0 0-.656-2.5H12.18c.174.782.282 1.623.312 2.5zM11.27 2.461c.247.464.462.98.64 1.539h1.835a7 7 0 0 0-3.072-2.472c.218.284.418.598.597.933M10.855 4a8 8 0 0 0-.468-1.068C9.835 1.897 9.17 1.282 8.5 1.077V4z"/>
+                                        </svg>
+                                        <span class="ms-1">Português</span>
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                        <li><a href="https://www.starplus.com/en-br/welcome/combo-plus?cid=DSS-Search-Google-71700000085922374-&s_kwcid=AL!8468!3!576493405892!e!!g!!star%2B&gad_source=1&gclid=EAIaIQobChMI_9W6gdyQhQMV6BetBh1c0w7ZEAAYASAAEgJb7PD_BwE&gclsrc=aw.ds">Inglês</a></li>
+                                    </ul>
+                                </div>
                             </div>
-                            <div class="col-2 p-footer-class"><a href="#">Termos e Condições de Uso</a></div>
-                            <div class="col-2 p-footer-class"><a href="#">Política de Privacidade</a></div>
-                            <div class="col-2 p-footer-class"><a href="#">Proteção de Dados no Brasil</a></div>
-                            <div class="col-1 p-footer-class"><a href="#">Ajuda</a></div>
-                            <div class="col-2 p-footer-class"><a href="#">Dispositivos Compatíveis</a></div>
-                            <div class="col-1 p-footer-class"><a href="#">Sobre Star+</a></div>
+                            <div class="col-2 p-footer-class"><a href="https://disneytermsofuse.com/brazilian-portuguese/" target="__blank">Termos e Condições de Uso</a></div>
+                            <div class="col-2 p-footer-class"><a href="https://www.starplus.com/pt-br/legal/pol%C3%ADtica-de-privacidade" target="__blank">Política de Privacidade</a></div>
+                            <div class="col-2 p-footer-class"><a href="https://www.starplus.com/pt-br/legal/prote%C3%A7%C3%A3o-de-dados-no-brasil" target="__blank">Proteção de Dados no Brasil</a></div>
+                            <div class="col-1 p-footer-class"><a href="https://help.starplus.com/" target="__blank">Ajuda</a></div>
+                            <div class="col-2 p-footer-class"><a href="https://help.starplus.com/starplus_hc?id=starplus_article_content&article=supported-devices" target="__blank">Dispositivos Compatíveis</a></div>
+                            <div class="col-1 p-footer-class"><a href="https://help.starplus.com/starplus_hc?id=starplus_article_content&article=getting-started" target="__blank">Sobre Star+</a></div>
                         </div>
                     </div>
 
-                    <p class="p-footer-class mb-5"><a href="#">Anúncios personalizados</a></p>
+                    <p class="p-footer-class mb-5"><a href="https://preferences-mgr.trustarc.com/?pid=disney01&aid=disneyplus01&type=disneyplus" target="__blank">Anúncios personalizados</a></p>
 
                     <p class="p-footer2-class">® 2024 Disney e The Walt Disney Company. Todos os direitos reservados. Serviço de assinatura paga. Conteúdo sujeito a disponibilidade.</p>
 

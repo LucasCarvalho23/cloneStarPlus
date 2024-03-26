@@ -190,6 +190,11 @@ footer span:hover {
     font-size: .8em;
 }
 
+.dropdown-menu {
+    background-color: transparent;
+    font-size: 1em;
+}
+
 
 
 
