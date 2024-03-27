@@ -225,6 +225,16 @@ body {
     font-size: .9em;
 }
 
+.container-maiuscula-class {
+    text-align: left;
+    padding: 5px 0 0 5px;
+}
+
+.maiuscula-class {
+    color: white;
+    font-size: .7em;
+}
+
 .container-login input:hover, .container-login input:active, .container-login input:focus {
     background-color: #25222a;
     border: 1px solid #656368;
@@ -269,4 +279,63 @@ body {
 
 .container-login-footer a {
     font-weight: bold;
+}
+
+.container-esqueceuSenha-class {
+    text-align: left;
+    padding-top: 20px;
+}
+
+.container-esqueceuSenha-class > a {
+    text-decoration: none;
+    color: #5ca9e5;
+    font-size: .9em;
+}
+
+.container-esqueceuSenha-class > a:hover {
+    text-decoration: underline;
+    color: #0ba4a4;
+}
+
+
+/********************************************************************************/
+
+/* PROFILES */
+
+.container-profiles-top {
+    color: white;
+    padding: 20px;
+}
+
+.quemVaiAssistir-class {
+    font-size: 1.8em;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.container-btn-class {
+    text-align: right;
+}
+
+.container-btn-class > a > span {
+    font-weight: bold;
+}
+
+.container-profiles-avatar {
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+}
+
+.container-profiles-avatar p {
+    padding-top: 20px;
+}
+
+.container-profiles-avatar span {
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.container-profiles-avatar img:hover {
+    width: 175px;
 }

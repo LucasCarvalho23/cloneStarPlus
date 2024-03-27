@@ -17,15 +17,18 @@
                 
                 <img src="../../Private/image/starplus-logo.png" width="170px">
 
-                <h3 class="h3-login-class"><strong>Use o seu e-mail para entrar</strong></h3>
+                <h3 class="h3-login-class"><strong>Digite a senha</strong></h3>
 
-                <input type="text" placeholder="E-mail" class="form-control">
+                <input type="password" placeholder="Senha" class="form-control">
+                <div class="container-maiuscula-class"><span class="maiuscula-class">(maiúsculas e minúsculas)</span></div>
 
                 <div class="d-grid gap-2">
-                    <a href="./password.php" class="btn button-continuar"><span>CONTINUAR</span></a>
+                    <a href="./profile.php" class="btn button-continuar"><span>ENTRAR</span></a>
                 </div>
 
-                <p>Não tem Star+? <a href="https://www.starplus.com/sign-up?type=bundle" target="__blank">Assine</a></p>
+                <div class="container-esqueceuSenha-class">
+                    <a href="https://www.starplus.com/pt-br/enter-passcode">Esqueceu a senha?</a>
+                </div>
 
             </div>
         </div>
