@@ -422,3 +422,22 @@ body {
     color: white;
     padding-top: 30px;
 }
+
+.container-nav-options {
+    font-size: .9em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.nav-options-class > div:hover {
+    text-decoration: underline;
+}
+
+.container-nav-perfil {
+    text-align: right;
+}
+
+.wallpáper-class {
+    background-image: url("../../Private/image/wallpaper-lost.png");
+    background-repeat: no-repeat;
+}
