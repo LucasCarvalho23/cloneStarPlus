@@ -15,7 +15,7 @@
         <div class="row d-flex justify-content-center">
             <div class="col-4">
                 
-                <img src="../../Private/image/starplus-logo.png" width="170px">
+                <img src="../../Private/image/starplus-logo.png" width="170px" title="Logo">
 
                 <h3 class="h3-login-class"><strong>Digite a senha</strong></h3>
 
@@ -27,7 +27,7 @@
                 </div>
 
                 <div class="container-esqueceuSenha-class">
-                    <a href="https://www.starplus.com/pt-br/enter-passcode">Esqueceu a senha?</a>
+                    <a href="./esqueciSenha.php">Esqueceu a senha?</a>
                 </div>
 
             </div>

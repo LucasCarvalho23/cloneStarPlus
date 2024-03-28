@@ -1,6 +1,12 @@
 @charset "UTF-8";
 
 
+/****************************************************************************/
+
+/* INDEX */
+
+/****************************************************************************/
+
 body {
     background-color: #040814;
 }
@@ -201,6 +207,8 @@ footer span:hover {
 
 /* LOGIN SCREEN */
 
+/****************************************************************************/
+
 body {
     background-color: #040814;
 }
@@ -298,9 +306,11 @@ body {
 }
 
 
-/********************************************************************************/
+/****************************************************************************/
 
 /* PROFILES */
+
+/****************************************************************************/
 
 .container-profiles-top {
     color: white;
@@ -338,4 +348,77 @@ body {
 
 .container-profiles-avatar img:hover {
     width: 175px;
+}
+
+
+
+/****************************************************************************/
+
+/* ESQUECI MINHA SENHA */
+
+/****************************************************************************/
+
+.container-esqueciSenha-class {
+    color: white;
+    padding: 75px;
+    text-align: center;
+}
+
+.container-esqueciSenha-class h3 {
+    margin-top: 50px;
+    text-align: left;
+}
+
+.container-esqueciSenha-class p {
+    margin-top: 25px;
+    text-align: left;
+    font-size: .9em;
+    font-weight: bold;
+}
+
+.container-input-senha {
+    margin-top: 30px;
+}
+
+.container-esqueciSenha-class input {
+    background-color: #3a3645;
+    color: #757575;
+    border: none;
+    height: 70px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 1.7em;
+    font-weight: bold;
+}
+
+.naoRecebeu-class {
+    color: #c2c2c2;
+}
+
+.reenviar-class {
+    text-align: left;
+}
+
+.reenviar-class a {
+    text-decoration: none;
+    color: white;
+}
+
+.reenviar-class a:hover {
+    text-decoration: underline;
+    color: #0ba4a4;
+}
+
+
+
+/****************************************************************************/
+
+/* HOME */
+
+/****************************************************************************/
+
+
+.container-navbar-home, .container-main, .container-assisteOP, .container-destaques, .container-favoritos, .container-continue, .container-esportes, .container-todosEsportes, .container-colecoes {
+    color: white;
+    padding-top: 30px;
 }
