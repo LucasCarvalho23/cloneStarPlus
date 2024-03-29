@@ -133,33 +133,43 @@
                 <img src="../../Private/image/esporte02.png" width="200px">
             </div>
             <div class="col-2">
-                <img src="../../Private/image/esporte01.png" width="200px">
+                <img src="../../Private/image/esporte03.png" width="200px">
             </div>
             <div class="col-2">
-                <img src="../../Private/image/esporte01.png" width="200px">
+                <img src="../../Private/image/esporte04.png" width="200px">
             </div>
             <div class="col-2">
-                <img src="../../Private/image/esporte01.png" width="200px">
+                <img src="../../Private/image/esporte05.png" width="200px">
             </div>
         </div>
     </div>
 
 
-    <div class="container container-favoritos">
+    <div class="container container-favoritos container-fluid">
         <h4>Favoritos do Star+</h4>
-        <div class="row">
-            <div class="col-2">SÉRIE 01</div>
-            <div class="col-2">SÉRIE 02</div>
-            <div class="col-2">SÉRIE 03</div>
-            <div class="col-2">SÉRIE 04</div>
-            <div class="col-2">SÉRIE 05</div>
+        <div class="row d-flex justify-content-center">
+            <div class="col-2">
+                <img src="../../Private/image/favoritos01.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/favoritos02.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/favoritos03.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/favoritos04.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/favoritos05.png" width="200px">
+            </div>
         </div>
     </div>
 
 
-    <div class="container container-continue">
+    <div class="container container-continue container-fluid">
         <h4>Continue Assistindo</h4>
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <div class="col-4">SÉRIE 01</div>
             <div class="col-4">SÉRIE 02</div>
             <div class="col-4">SÉRIE 03</div>
@@ -167,9 +177,9 @@
     </div>
 
 
-    <div class="container container-esportes">
+    <div class="container container-esportes container-fluid">
         <h4>Esportes</h4>
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <div class="col-1">ESPORTE 01</div>
             <div class="col-1">ESPORTE 02</div>
             <div class="col-1">ESPORTE 03</div>
@@ -184,9 +194,9 @@
     </div>
 
 
-    <div class="container container-todosEsportes">
+    <div class="container container-todosEsportes container-fluid">
         <h4>Todos os Esportes | Ao Vivo</h4>
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <div class="col-2">ESPORTE 01</div>
             <div class="col-2">ESPORTE 02</div>
             <div class="col-2">ESPORTE 03</div>
@@ -196,9 +206,9 @@
     </div>
 
 
-    <div class="container container-colecoes">
+    <div class="container container-colecoes container-fluid">
         <h4>Coleções</h4>
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <div class="col-2">COLEÇÃO 01</div>
             <div class="col-2">COLEÇÃO 02</div>
             <div class="col-2">COLEÇÃO 03</div>

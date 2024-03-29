@@ -442,17 +442,21 @@ body {
     margin-top: 20px;
 }
 
-.container-main img{
+.container-main img {
     border-radius: 5px;
 }
 
-.container-assisteOP h4, .container-destaques h4 {
+.container-assisteOP h4, .container-destaques h4, .container-favoritos h4, .container-continue h4, .container-esportes h4, .container-todosEsportes h4, .container-colecoes h4 {
     text-align: left;
     margin-top: 20px;
     margin-left: 100px;
 }
 
-.container-assisteOP img, .container-destaques img {
+.container-assisteOP img, .container-destaques img, .container-favoritos img, .container-continue img, .container-esportes img, .container-todosEsportes img, .container-colecoes img {
     margin-top: 20px;
     border-radius: 5px;
+}
+
+.container-assisteOP img:hover, .container-destaques img:hover, .container-favoritos img:hover, .container-continue img:hover, .container-esportes img:hover, .container-todosEsportes img:hover, .container-colecoes img:hover, .container-main img:hover {
+    border: 2px solid white;
 }
