@@ -421,6 +421,7 @@ body {
 .container-navbar-home, .container-main, .container-assisteOP, .container-destaques, .container-favoritos, .container-continue, .container-esportes, .container-todosEsportes, .container-colecoes {
     color: white;
     padding-top: 30px;
+    text-align: center;
 }
 
 .container-nav-options {
@@ -437,7 +438,21 @@ body {
     text-align: right;
 }
 
-.wallpáper-class {
-    background-image: url("../../Private/image/wallpaper-lost.png");
-    background-repeat: no-repeat;
+.wallpaper-class {
+    margin-top: 20px;
+}
+
+.container-main img{
+    border-radius: 5px;
+}
+
+.container-assisteOP h4, .container-destaques h4 {
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.container-assisteOP img, .container-destaques img {
+    margin-top: 20px;
+    border-radius: 5px;
 }

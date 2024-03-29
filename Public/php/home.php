@@ -9,13 +9,13 @@
     <title>Selecionar Perfil | Star+</title>
 
 </head>
-<body class="wallpáper-class">
+<body>
 
     <div class="container container-navbar-home">
         <div class="row">
 
             <div class="col-1">
-                <img src="../../Private/image/starplus-logo.png" width="70px">
+                <img src="../../Private/image/starplus-logo.png" width="70px" title="Logo">
             </div>
 
             <div class="col-8 mt-1 container-nav-options">
@@ -72,45 +72,75 @@
         </div>
     </div>
 
-    <div class="container">
+    <div class="container wallpaper-class">
         <div class="row">
             <div class="col-12">
-                
+                <img src="../../Private/image/wallpaper-lost.png" width="100%">
             </div>
         </div>
     </div>
 
-    <div class="container container-main">
-        <div class="row">
-            <div class="col-2">SÉRIE 01</div>
-            <div class="col-2">SÉRIE 02</div>
-            <div class="col-2">SÉRIE 03</div>
-            <div class="col-2">SÉRIE 04</div>
-            <div class="col-2">SÉRIE 05</div>
+    <div class="container container-main container-fluid">
+        <div class="row d-flex justify-content-center">
+            <div class="col-2">
+                <img src="../../Private/image/lost-wall.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/pdc-wall.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/op-wall.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/VASCO-wall.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/ops-wall.png" width="200px">
+            </div>
         </div>
     </div>
 
 
-    <div class="container container-assisteOP">
-        <h4>Porque você assiste XXXX</h4>
-        <div class="row">
-            <div class="col-2">SÉRIE 01</div>
-            <div class="col-2">SÉRIE 02</div>
-            <div class="col-2">SÉRIE 03</div>
-            <div class="col-2">SÉRIE 04</div>
-            <div class="col-2">SÉRIE 05</div>
+    <div class="container container-assisteOP container-fluid">
+        <h4>Porque você assiste One Piece</h4>
+        <div class="row d-flex justify-content-center">
+            <div class="col-2">
+                <img src="../../Private/image/series01.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/series02.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/series03.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/series04.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/series05.png" width="200px">
+            </div>
         </div>
     </div>
 
 
-    <div class="container container-destaques">
+    <div class="container container-destaques container-fluid">
         <h4>Destaques Ao Vivo e A Seguir</h4>
-        <div class="row">
-            <div class="col-2">SÉRIE 01</div>
-            <div class="col-2">SÉRIE 02</div>
-            <div class="col-2">SÉRIE 03</div>
-            <div class="col-2">SÉRIE 04</div>
-            <div class="col-2">SÉRIE 05</div>
+        <div class="row d-flex justify-content-center">
+            <div class="col-2">
+                <img src="../../Private/image/esporte01.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/esporte02.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/esporte01.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/esporte01.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/esporte01.png" width="200px">
+            </div>
         </div>
     </div>
 
