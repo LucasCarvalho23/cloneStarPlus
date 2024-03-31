@@ -224,19 +224,19 @@
         <h4>Todos os Esportes | Ao Vivo</h4>
         <div class="row d-flex justify-content-center">
             <div class="col-2">
-                <img src="../../Private/image/esporte01.png" width="200px">
+                <img src="../../Private/image/allsport01.png" width="200px">
             </div>
             <div class="col-2">
-                <img src="../../Private/image/esporte01.png" width="200px">
+                <img src="../../Private/image/allsport02.png" width="200px">
             </div>
             <div class="col-2">
-                <img src="../../Private/image/esporte01.png" width="200px">
+                <img src="../../Private/image/allsport03.png" width="200px">
             </div>
             <div class="col-2">
-                <img src="../../Private/image/esporte01.png" width="200px">
+                <img src="../../Private/image/allsport04.png" width="200px">
             </div>
             <div class="col-2">
-                <img src="../../Private/image/esporte01.png" width="200px">
+                <img src="../../Private/image/allsport05.png" width="200px">
             </div>
         </div>
     </div>
