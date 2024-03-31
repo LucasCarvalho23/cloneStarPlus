@@ -457,6 +457,20 @@ body {
     border-radius: 5px;
 }
 
-.container-assisteOP img:hover, .container-destaques img:hover, .container-favoritos img:hover, .container-continue img:hover, .container-esportes img:hover, .container-todosEsportes img:hover, .container-colecoes img:hover, .container-main img:hover {
+.container-assisteOP img:hover, .container-destaques img:hover, .container-favoritos img:hover, .container-continue img:hover, .container-todosEsportes img:hover, .container-colecoes img:hover, .container-main img:hover {
     border: 2px solid white;
+    cursor: pointer;
+}
+
+.container-continue-img01 {
+    margin-left: 100px;
+}
+
+.container-continue-img03 {
+    margin-right: 100px;;
+}
+
+.container-esportes img:hover {
+    width: 80px;
+    cursor: pointer;
 }

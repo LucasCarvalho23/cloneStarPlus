@@ -170,9 +170,15 @@
     <div class="container container-continue container-fluid">
         <h4>Continue Assistindo</h4>
         <div class="row d-flex justify-content-center">
-            <div class="col-4">SÉRIE 01</div>
-            <div class="col-4">SÉRIE 02</div>
-            <div class="col-4">SÉRIE 03</div>
+            <div class="col-4">
+                <img class="container-continue-img01" src="../../Private/image/continue01.png" width="300px">
+            </div>
+            <div class="col-4">
+                <img src="../../Private/image/continue02.png" width="300px">
+            </div>
+            <div class="col-4">
+                <img class="container-continue-img03" src="../../Private/image/continue03.png" width="300px">
+            </div>
         </div>
     </div>
 
@@ -180,16 +186,36 @@
     <div class="container container-esportes container-fluid">
         <h4>Esportes</h4>
         <div class="row d-flex justify-content-center">
-            <div class="col-1">ESPORTE 01</div>
-            <div class="col-1">ESPORTE 02</div>
-            <div class="col-1">ESPORTE 03</div>
-            <div class="col-1">ESPORTE 04</div>
-            <div class="col-1">ESPORTE 05</div>
-            <div class="col-1">ESPORTE 06</div>
-            <div class="col-1">ESPORTE 07</div>
-            <div class="col-1">ESPORTE 08</div>
-            <div class="col-1">ESPORTE 09</div>
-            <div class="col-1">ESPORTE 10</div>
+            <div class="col-1">
+                <img src="../../Private/image/sport01.png" width="75px">
+            </div>
+            <div class="col-1">
+                <img src="../../Private/image/sport02.png" width="75px">
+            </div>
+            <div class="col-1">
+                <img src="../../Private/image/sport03.png" width="75px">
+            </div>
+            <div class="col-1">
+                <img src="../../Private/image/sport04.png" width="75px">
+            </div>
+            <div class="col-1">
+                <img src="../../Private/image/sport05.png" width="75px">
+            </div>
+            <div class="col-1">
+                <img src="../../Private/image/sport06.png" width="75px">
+            </div>
+            <div class="col-1">
+                <img src="../../Private/image/sport07.png" width="75px">
+            </div>
+            <div class="col-1">
+                <img src="../../Private/image/sport08.png" width="75px">
+            </div>
+            <div class="col-1">
+                <img src="../../Private/image/sport09.png" width="75px">
+            </div>
+            <div class="col-1">
+                <img src="../../Private/image/sport10.png" width="75px">
+            </div>
         </div>
     </div>
 
@@ -197,11 +223,21 @@
     <div class="container container-todosEsportes container-fluid">
         <h4>Todos os Esportes | Ao Vivo</h4>
         <div class="row d-flex justify-content-center">
-            <div class="col-2">ESPORTE 01</div>
-            <div class="col-2">ESPORTE 02</div>
-            <div class="col-2">ESPORTE 03</div>
-            <div class="col-2">ESPORTE 04</div>
-            <div class="col-2">ESPORTE 05</div>
+            <div class="col-2">
+                <img src="../../Private/image/esporte01.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/esporte01.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/esporte01.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/esporte01.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/esporte01.png" width="200px">
+            </div>
         </div>
     </div>
 
@@ -209,11 +245,21 @@
     <div class="container container-colecoes container-fluid">
         <h4>Coleções</h4>
         <div class="row d-flex justify-content-center">
-            <div class="col-2">COLEÇÃO 01</div>
-            <div class="col-2">COLEÇÃO 02</div>
-            <div class="col-2">COLEÇÃO 03</div>
-            <div class="col-2">COLEÇÃO 04</div>
-            <div class="col-2">COLEÇÃO 05</div>
+            <div class="col-2">
+                <img src="../../Private/image/colecao01.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/colecao02.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/colecao03.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/colecao04.png" width="200px">
+            </div>
+            <div class="col-2">
+                <img src="../../Private/image/colecao05.png" width="200px">
+            </div>
         </div>
     </div>
 
