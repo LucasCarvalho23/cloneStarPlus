@@ -1,3 +1,10 @@
+<?php 
+
+    session_start();
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,12 +26,24 @@
 
                 <h3 class="h3-login-class"><strong>Digite a senha</strong></h3>
 
-                <input type="password" placeholder="Senha" class="form-control">
-                <div class="container-maiuscula-class"><span class="maiuscula-class">(maiúsculas e minúsculas)</span></div>
+                <form action = "../../Private/php/checklogin.php" method="post">
 
-                <div class="d-grid gap-2">
-                    <a href="./profile.php" class="btn button-continuar"><span>ENTRAR</span></a>
-                </div>
+                    <input type="password" placeholder="Senha" class="form-control" name="password">
+                    <div class="container-maiuscula-class"><span class="maiuscula-class">(maiúsculas e minúsculas)</span></div>
+
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn button-continuar"><span>ENTRAR</span></button>
+                    </div>
+
+                </form>
+
+                <?php if (isset($_SESSION['error'])) {  ?>
+                    <p class="text-white">
+                        <?php 
+                            echo $_SESSION['errorPass'];
+                        ?>
+                    </p>
+                <?php } ?>
 
                 <div class="container-esqueceuSenha-class">
                     <a href="./esqueciSenha.php">Esqueceu a senha?</a>

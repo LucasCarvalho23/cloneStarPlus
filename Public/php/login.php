@@ -1,3 +1,9 @@
+<?php 
+
+    session_start();
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,11 +25,21 @@
 
                 <h3 class="h3-login-class"><strong>Use o seu e-mail para entrar</strong></h3>
 
-                <input type="text" placeholder="E-mail" class="form-control">
+                <form action = "../../Private/php/checklogin.php" method="post">
+                    <input type="text" placeholder="E-mail" class="form-control" name="login">
 
-                <div class="d-grid gap-2">
-                    <a href="./password.php" class="btn button-continuar"><span>CONTINUAR</span></a>
-                </div>
+                    <div class="d-grid gap-2">
+                        <button class="btn button-continuar" type="submit"><span>CONTINUAR</span></button>
+                    </div>
+                </form>
+
+                <?php if (isset($_SESSION['error'])) {  ?>
+                    <p class="text-white">
+                        <?php 
+                            echo $_SESSION['error'];
+                        ?>
+                    </p>
+                <?php } ?>
 
                 <p>Não tem Star+? <a href="https://www.starplus.com/sign-up?type=bundle" target="__blank">Assine</a></p>
 
