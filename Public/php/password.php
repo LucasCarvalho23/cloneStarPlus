@@ -2,7 +2,6 @@
 
     session_start();
 
-
 ?>
 
 <!DOCTYPE html>
@@ -26,7 +25,7 @@
 
                 <h3 class="h3-login-class"><strong>Digite a senha</strong></h3>
 
-                <form action = "../../Private/php/checklogin.php" method="post">
+                <form action = "../../Private/php/checkPassword.php" method="post">
 
                     <input type="password" placeholder="Senha" class="form-control" name="password">
                     <div class="container-maiuscula-class"><span class="maiuscula-class">(maiúsculas e minúsculas)</span></div>

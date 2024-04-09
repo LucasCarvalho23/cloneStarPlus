@@ -65,8 +65,8 @@
             </div>
 
             <div class="col-3 container-nav-perfil">
-                <span class="me-2">Monkey D. Luffy</span>
-                <img src="../../Private/image/perfil01.png" width="50px">
+                <span class="me-2" id="nomeProfile-id">Monkey D. Luffy</span>
+                <img src="../../Private/image/perfil01.png" width="50px" id="imageProfile-id">
             </div>
 
         </div>
@@ -311,6 +311,8 @@
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+    <script type="module" src="../javascript/script-home.js"></script>
     
 </body>
 </html>

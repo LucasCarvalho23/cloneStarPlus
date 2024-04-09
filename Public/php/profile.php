@@ -31,7 +31,7 @@
         <div class="row d-flex justify-content-center">
             <div class="col-3">
                 <a href="./home.php">
-                    <img src="../../Private/image/perfil01.png" width="150px"> 
+                    <img src="../../Private/image/perfil01.png" width="150px" name="Monkey D. Luffy" id="img-login01"> 
                 </a>
                 <p>
                     <span>Monkey D. Luffy</span>
@@ -39,7 +39,7 @@
             </div>
             <div class="col-3">
                 <a href="./home.php">
-                    <img src="../../Private/image/perfil02.png" width="150px"> 
+                    <img src="../../Private/image/perfil02.png" width="150px" name="Roronoa Zoro" id="img-login02"> 
                 </a>
                 <p>
                     <span>Roronoa Zoro</span>
@@ -47,7 +47,7 @@
             </div>
             <div class="col-3">
                 <a href="./home.php">
-                    <img src="../../Private/image/perfil03.png" width="150px"> 
+                    <img src="../../Private/image/perfil03.png" width="150px" name="Vinsmoke Sanji" id="img-login03"> 
                 </a>
                 <p>
                     <span>Vinsmoke Sanji</span>
@@ -58,6 +58,8 @@
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+    <script src="../javascript/script.js"></script>
     
 </body>
 </html>
