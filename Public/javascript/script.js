@@ -22,9 +22,11 @@ class Profile {
     }
 
     profileEscolhido() {
-        console.log (this.imgLogin.name)
+        sessionStorage.setItem('perfil', this.imgLogin.name);
     }
 
 }
 
 let profile = new Profile()
+
+export default profile;

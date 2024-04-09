@@ -5,22 +5,23 @@ class ImgProfile {
         this.imageProfile = document.querySelector("#imageProfile-id")
         this.nomeProfile = document.querySelector("#nomeProfile-id")
 
-        this.profileEscolhido = '2'
+        this.valueShared = sessionStorage.getItem('perfil');
 
-        if (this.profileEscolhido == '1') {
+        this.profileEscolhido = this.valueShared
+
+        if (this.profileEscolhido == 'Monkey D. Luffy') {
             this.nomeProfile.innerHTML = `Monkey D. Luffy`
             this.imageProfile.src = '../../Private/image/perfil01.png'
-        } else if (this.profileEscolhido == '2') {
+        } else if (this.profileEscolhido == 'Roronoa Zoro') {
             this.nomeProfile.innerHTML = `Roronoa Zoro`
             this.imageProfile.src = '../../Private/image/perfil02.png'
-        } else if (this.profileEscolhido == '3') {
+        } else if (this.profileEscolhido == 'Vinsmoke Sanji') {
             this.nomeProfile.innerHTML = `Vinsmoke Sanji`
             this.imageProfile.src = '../../Private/image/perfil03.png'
         } else {
             this.nomeProfile.innerHTML = `Monkey D. Luffy`
             this.imageProfile.src = '../../Private/image/perfil01.png'
         }
-
 
     }
 

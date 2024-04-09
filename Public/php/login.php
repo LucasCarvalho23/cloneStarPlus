@@ -21,7 +21,7 @@
         <div class="row d-flex justify-content-center">
             <div class="col-4">
                 
-                <img src="../../Private/image/starplus-logo.png" width="170px" title="Logo">
+                <a href="index.php"><img src="../../Private/image/starplus-logo.png" width="170px" title="Logo"></a>
 
                 <h3 class="h3-login-class"><strong>Use o seu e-mail para entrar</strong></h3>
 

@@ -15,7 +15,7 @@
         <div class="row">
 
             <div class="col-1">
-                <img src="../../Private/image/starplus-logo.png" width="70px" title="Logo">
+                <a href="index.php"><img src="../../Private/image/starplus-logo.png" width="70px" title="Logo"></a>
             </div>
 
             <div class="col-8 mt-1 container-nav-options">
