@@ -36,7 +36,7 @@
 
                 </form>
 
-                <?php if (isset($_SESSION['error'])) {  ?>
+                <?php if (isset($_SESSION['errorPass'])) {  ?>
                     <p class="text-white">
                         <?php 
                             echo $_SESSION['errorPass'];

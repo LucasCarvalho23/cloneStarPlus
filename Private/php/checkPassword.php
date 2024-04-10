@@ -4,7 +4,7 @@
 
     function checkSession() {
 
-        $password = '123';
+        $password = '3.14159265';
 
         if (!isset($_SESSION['autenticacao'])) {
             $_SESSION['autenticacao'] = 0;

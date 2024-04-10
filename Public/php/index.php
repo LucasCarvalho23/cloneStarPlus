@@ -23,7 +23,7 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-3">
+            <div class="col-3 container-saveAndGet">
                 <img class="container-img-starPlus" src="../../Private/image/disneyComboStar.png">
                 <div class="d-grid gap-2 containter-button-saveAndGet">
                     <a href="https://www.starplus.com/sign-up?type=bundle" target="__blank" class="btn btn-lg button-saveAndGet">SAVE AND GET THEM BOTH</a>
